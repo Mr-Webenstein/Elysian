@@ -147,6 +147,10 @@ header {
   display: flex;
   align-items: center;
 }
+
+.head2{
+  width:50%;
+}
 footer {
   background-color: #00008b;
   color: white;
