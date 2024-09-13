@@ -141,15 +141,11 @@ header {
 }
 .admission {
   background-color: #f7f7f7;
-  
+  padding: 24px;
   border-radius: 6px;
-  height: 600px;
+  height: 400px;
   display: flex;
   align-items: center;
-}
-
-.head2{
-  width:50%;
 }
 footer {
   background-color: #00008b;
